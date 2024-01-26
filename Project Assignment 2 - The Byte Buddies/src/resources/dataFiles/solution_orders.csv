@@ -1,0 +1,25 @@
+Name,Selected Solution Offer,Customer Profile,Sales Person Profile,Market Channel Assignment Id,price
+solution_order_1,IPhone&IPod,Alex,Evan,MCA101,1930,1
+solution_order_2,MacBook&IBall,Lara,Smith,MCA102,2690,2
+solution_order_3,IPrinter&IBall,Jennifier,John,MCA103,3300,3
+solution_order_4,IWatch&Airpod,Mark,Adam,MCA104,780,1
+solution_order_5,Macbook&IPhone,Mr. Bugrara,Ruth,MCA105,4100,2
+solution_order_6,Ilens&IWatch,Alex,Isabella,MCA101,6200,3
+solution_order_7,IPod&IPad,Bella,Chris,MCA102,1100,1
+solution_order_8,AirPods&MacBook,Mark,Chris,MCA103,2760,2
+solution_order_9,IPhone&IPod,Lara,Evan,MCA101,1800,3
+solution_order_10,MacBook&IBall,Bella,Smith,MCA102,2500,1
+solution_order_11,IPrinter&IBall,Mark,John,MCA103,3660,2
+solution_order_12,IWatch&Airpod,Jennifier,Adam,MCA104,730,2
+solution_order_13,Macbook&IPhone,Mr. Heckles,Ruth,MCA105,4300,3
+solution_order_14,Ilens&IWatch,Lara,Isabella,MCA101,5900,1
+solution_order_15,IPod&IPad,Alex,Chris,MCA102,1300,2
+solution_order_16,AirPods&MacBook,Jennifier,Evan,MCA103,2730,3
+solution_order_17,Macbook&IPhone,Mr. Heckles,Ruth,MCA105,4300,3
+solution_order_18,Ilens&IWatch,Bella,Isabella,MCA101,5900,1
+solution_order_19,IPod&IPad,Bella,Chris,MCA102,1300,2
+solution_order_20,AirPods&MacBook,Mark,Ruth,MCA103,2730,3
+solution_order_21,Macbook&IPod,Mr. Heckles,Smith,MCA105,2730,1
+solution_order_22,IPrinter&IPhone,Mr. Bugrara,Isabella,MCA105,5100,2
+solution_order_23,ILens&Airpod,Mr. Heckles,Ruth,MCA105,5760,3
+solution_order_24,Macbook&IPod,Mr. Bugrara,Adam,MCA105,2800,1
