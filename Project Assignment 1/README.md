@@ -1,0 +1,2 @@
+# openmind
+AED Project
